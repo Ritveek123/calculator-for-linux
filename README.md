@@ -1,7 +1,7 @@
 # calculator-for-linux
 it can only add two number
 to Install 
-here are command: 
+#here are command 
 apt update && apt upgrade,
 apt install python,
 apt install git,
